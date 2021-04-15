@@ -1,0 +1,27 @@
+h1{
+ color:brown  
+}
+*{
+ border:solid
+}
+.header{
+    background-color:aqua;
+    display:flex;
+    justify-content:space-between;
+}
+.grid{
+   display:flex;
+justify-content:space-evenly;
+flex-wrap: wrap;
+}
+p,h2{
+  text-align:start;  
+}
+.footer{
+    display:flex;
+    justify-content:flex-end
+}
+body{
+  background-color:#00ffff;
+  border-color:darkred;
+}
